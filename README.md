@@ -140,11 +140,6 @@ Run the executable using the terminal or command prompt as shown above.
 
 ---
 
-## Screenshots
-(Include screenshots of the game in action here)
-
----
-
 ## Troubleshooting
 
 ### 1. Compilation Errors
