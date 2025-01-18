@@ -18,8 +18,8 @@ Before running the **Tic-Tac-Toe Game in C++**, ensure you have the following in
 Clone the **Tic-Tac-Toe Game in C++** repository from GitHub:
 
 ```bash
-git clone https://github.com/Aman-Sunesh/Tic-Tac-Toe-Cpp.git
-cd Tic-Tac-Toe-Cpp
+git clone https://github.com/Aman-Sunesh/Tic-Tac-Toe-Game-in-C-Plus-Plus.git
+cd Tic-Tac-Toe-Game-in-C-Plus-Plus
 ```
 
 ## 2. Compile the Application
